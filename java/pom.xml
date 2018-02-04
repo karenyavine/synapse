@@ -317,9 +317,15 @@
     </build>
 
     <dependencyManagement>
-        <dependencies>
-            <!-- Synapse Child Modules -->
-            <dependency>
+	<dependencies>
+	<!-- TEST Child Modules -->
+	    <dependency>
+                <groupId>org.apache.cassandra</groupId>
+                <artifactId>cassandra-parent</artifactId>
+                <version>3.11.1</version>
+            </dependency>
+       <!-- Synapse Child Modules -->
+	    <dependency>
                 <groupId>org.apache.synapse</groupId>
                 <artifactId>synapse-commons</artifactId>
                 <version>${project.version}</version>
