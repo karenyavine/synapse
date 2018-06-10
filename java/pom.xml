@@ -1137,7 +1137,7 @@
         <xalan.version>2.7.1</xalan.version>
         <xerces.version>2.9.1</xerces.version>
         <truezip.version>6.6</truezip.version>
-        <jsch.version>0.1.31</jsch.version>
+        <jsch.version>0.1.54</jsch.version>
         <jms-1.1-spec.version>1.1</jms-1.1-spec.version>
         <httpcore.nio.version>4.3.3</httpcore.nio.version>
         <http.client.version>4.3.6</http.client.version>
@@ -1165,7 +1165,7 @@
         <!-- Maven Tools -->
         <maven.version>3.0</maven.version>
         <maven.archiver.version>2.2</maven.archiver.version>
-        <plexus.utils.version>1.5.4</plexus.utils.version>
+        <plexus.utils.version>3.0.24</plexus.utils.version>
     </properties>
 
     <developers>
@@ -1220,7 +1220,7 @@
             <name>Davanum Srinivas</name>
             <id>dims</id>
             <email>davanum@gmail.com</email>
-            <organization />
+            <organization/>
         </developer>
         <developer>
             <name>Sanjiva Weerawarana</name>
