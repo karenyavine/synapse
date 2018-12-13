@@ -1163,9 +1163,9 @@
         <activation.version>1.1</activation.version>
 
         <!-- Maven Tools -->
-        <maven.version>3.0</maven.version>
-        <maven.archiver.version>2.2</maven.archiver.version>
-        <plexus.utils.version>1.5.4</plexus.utils.version>
+        <maven.version>3.5.0</maven.version>
+        <maven.archiver.version>3.3.0</maven.archiver.version>
+        <plexus.utils.version>3.0.24</plexus.utils.version>
     </properties>
 
     <developers>
@@ -1220,7 +1220,7 @@
             <name>Davanum Srinivas</name>
             <id>dims</id>
             <email>davanum@gmail.com</email>
-            <organization />
+            <organization/>
         </developer>
         <developer>
             <name>Sanjiva Weerawarana</name>
